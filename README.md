@@ -4,4 +4,4 @@ Welcome to VICHAAR, a full stack social media application built using the MERN s
 
 Live Website
 
-You can access the live website at https://vichaar-cdam.onrender.com/chat
+You can access the live website at https://vichaar-cdam.onrender.com
