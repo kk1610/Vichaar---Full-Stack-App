@@ -1,9 +1,7 @@
 VICHAAR - Full Stack Social Media App
 
-📍 Live Website
+Welcome to VICHAAR, a full stack social media application built using the MERN stack. VICHAAR provides a platform for users to interact, post content, and engage with a community.
 
-Visit VICHAAR
+Live Website
 
-📖 Project Overview
-
-VICHAAR is a comprehensive full stack social media application designed to provide users with a robust platform for interaction, content sharing, and community engagement. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), VICHAAR features a user-friendly interface and a scalable backend architecture.
+You can access the live website at https://vichaar-cdam.onrender.com/chat
